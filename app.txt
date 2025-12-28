@@ -1,0 +1,6 @@
+-LINGUAGEM: Python
+
+SOBRE O PROJETO: Desenvolver um app de finanças pessoais, o app irá rodar via app pelo celular
+ou pela página na web, será de fácil e intuitivo uso, o usuário colocará dados de suas finanças
+no mês e também colocará seus gastos, o app irá calcular quanto de dinheiro está sendo gasto
+de forma desnecessária, o app terá uma ferramenta para atribuir a necessidade daquele gasto...
