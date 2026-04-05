@@ -1,0 +1,13 @@
+package com.app.finances.appfinances;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class AppfinancesApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(AppfinancesApplication.class, args);
+	}
+
+}
