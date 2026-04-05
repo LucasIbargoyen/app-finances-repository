@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="xunnQjb5vZ2oRzvj5e0J">
+    <mxGraphModel dx="794" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fSgdCAJfeyGxYRk5oBp7-5" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Account&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="160" x="320" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="fSgdCAJfeyGxYRk5oBp7-6" parent="fSgdCAJfeyGxYRk5oBp7-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;div&gt;String accountName;&lt;/div&gt;&lt;div&gt;Double balance;&lt;/div&gt;&lt;div&gt;AccType type;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="64" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fSgdCAJfeyGxYRk5oBp7-7" parent="fSgdCAJfeyGxYRk5oBp7-5" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fSgdCAJfeyGxYRk5oBp7-8" parent="fSgdCAJfeyGxYRk5oBp7-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;div&gt;+ deposit(): boolean&lt;/div&gt;&lt;div&gt;+ withdraw(): boolean&lt;/div&gt;" vertex="1">
+          <mxGeometry height="42" width="160" y="98" as="geometry" />
+        </mxCell>
+        <mxCell id="fSgdCAJfeyGxYRk5oBp7-13" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="AccType" vertex="1">
+          <mxGeometry height="104" width="140" x="530" y="201" as="geometry" />
+        </mxCell>
+        <mxCell id="fSgdCAJfeyGxYRk5oBp7-15" parent="fSgdCAJfeyGxYRk5oBp7-13" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="SAVINGS;" vertex="1">
+          <mxGeometry height="26" width="140" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fSgdCAJfeyGxYRk5oBp7-14" parent="fSgdCAJfeyGxYRk5oBp7-13" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;div&gt;CHECKING,&lt;/div&gt;" vertex="1">
+          <mxGeometry height="26" width="140" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="fSgdCAJfeyGxYRk5oBp7-16" parent="fSgdCAJfeyGxYRk5oBp7-13" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;div&gt;CASH&lt;/div&gt;" vertex="1">
+          <mxGeometry height="26" width="140" y="78" as="geometry" />
+        </mxCell>
+        <mxCell id="fSgdCAJfeyGxYRk5oBp7-17" parent="1" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="50" x="480" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="fSgdCAJfeyGxYRk5oBp7-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="import" vertex="1">
+          <mxGeometry height="30" width="60" x="475" y="218" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
