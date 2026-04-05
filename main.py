@@ -6,3 +6,4 @@ cpf = input("CPF: ")
 """Dados Financeiros"""
 avgIncome = float(input("Digit your income: "))
 avgExpenses = float(input("Digit your expenses: "))
+"""Services"""
